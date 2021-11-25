@@ -1,0 +1,75 @@
+.everything {
+  background: #88b6ee;
+}
+
+/* you can combine both of them like this */
+/* oh thank youu */
+a:link, a:visited{
+	color: white;
+}
+
+.logo {
+  height: 100px;
+  margin: 0 0 0 1em;
+}
+
+.sidebar {
+  float: left;
+  width: 9em;
+  padding: 3px 1.5em 10px 1.3em;
+  position: absolute;
+  color: #3168aa;
+}
+
+.mainsection {
+  margin: 0 0 0 11em;
+  border: 1px solid #ffffff;
+}
+
+
+.article {
+  padding: 1.25em 1.5em 1.5em 1.5em;
+  border-left: 5px solid white;
+  background: #5a90d1;
+  line-height: 1.6;
+  font-size: 0.875em;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+  color: white;
+}
+
+.mainsectionimage {
+  width: 3em;
+  height: 5em;
+  border: 1px solid #c8ccd1;
+  padding: 3px;
+  float: right;
+  background-color: #f8f9fa;
+  font-size: 94%;
+  overflow: hidden;
+  line-height: 0.1em;
+  padding: 3px;
+  font-size: 95%;
+  margin: 0 0 5px 15px;
+  text-align: left;
+}
+
+.contentsPanel {
+  border: 1px solud #a2a9b1;
+  background-color: #3168aa;
+  padding: 5px;
+  font-size: 95%;
+  position: relative;
+  line-height: 1.7em;
+  width: 200px;
+}
+
+ul {
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0.3em 0 0 0;
+}
+
+
+/* typing everything is a pain but I will do it because what is coding without the pain of typing a lot*/
